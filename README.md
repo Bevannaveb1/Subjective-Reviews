@@ -1,3 +1,3 @@
 # Subjective-Reviews
 Gaming blog
-Site was developed on WIX
+Subjective Reviews Website was developed on WIX
